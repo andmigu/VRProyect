@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bola", "bola.csproj", "{9867F47D-8769-429E-04E3-0DDA2BD7BAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bola.Editor", "bola.Editor.csproj", "{98B32D11-FAF2-87C9-887C-D1AF01800EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9867F47D-8769-429E-04E3-0DDA2BD7BAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9867F47D-8769-429E-04E3-0DDA2BD7BAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9867F47D-8769-429E-04E3-0DDA2BD7BAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9867F47D-8769-429E-04E3-0DDA2BD7BAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B32D11-FAF2-87C9-887C-D1AF01800EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B32D11-FAF2-87C9-887C-D1AF01800EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B32D11-FAF2-87C9-887C-D1AF01800EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B32D11-FAF2-87C9-887C-D1AF01800EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
